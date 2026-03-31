@@ -1,2 +1,4 @@
 /svhn_data/
+/runs_svhn/
 *.ds_store
+/runs/
